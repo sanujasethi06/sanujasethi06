@@ -1,7 +1,7 @@
 ![MasterHead](https://camo.githubusercontent.com/91c0c50639feb83c9675e648e989b35117171876f126c3af52a522f266f1aeb7/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f312a4f785437556a4977686b6c4b453864385346796f37672e676966)
 <h1 align="center">Hi 👋, I'm Sanuja kumar</h1>
 <h3 align="center">A passionate frontend developer and Backend from India</h3>
-<img align="right" src="https://cdn-images-1.medium.com/v2/resize:fill:1600:480/gravity:fp:0.5:0.4/1*ZSVmWGcc1weENb0ShawWxw.gif" alt="Coding" />
+<img align="right" width="400" src="https://cdn-images-1.medium.com/v2/resize:fill:1600:480/gravity:fp:0.5:0.4/1*ZSVmWGcc1weENb0ShawWxw.gif" alt="Coding" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanujasethi06&label=Profile%20views&color=0e75b6&style=flat" alt="sanujasethi06" /> </p>
 

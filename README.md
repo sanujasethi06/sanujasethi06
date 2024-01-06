@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React,Nodejs and Mongodb**
 
-- 💬 Ask me about **React,Jquery and Python3**
+- 💬 Ask me about **ReactJs,NextJs,Jquery and Python3**
 
 - 📫 How to reach me **sethisanuja1998@gmail.com**
 

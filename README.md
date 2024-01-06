@@ -1,4 +1,4 @@
-![MasterHead](https://camo.githubusercontent.com/91c0c50639feb83c9675e648e989b35117171876f126c3af52a522f266f1aeb7/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f312a4f785437556a4977686b6c4b453864385346796f37672e676966)
+![MasterHead]([https://camo.githubusercontent.com/91c0c50639feb83c9675e648e989b35117171876f126c3af52a522f266f1aeb7/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f312a4f785437556a4977686b6c4b453864385346796f37672e676966](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif))
 <h1 align="center">Hi 👋, I'm Sanuja kumar</h1>
 <h3 align="center">A passionate frontend and backend developer from India</h3>
 <img align="right" width="400" src="https://cdn-images-1.medium.com/v2/resize:fill:1600:480/gravity:fp:0.5:0.4/1*ZSVmWGcc1weENb0ShawWxw.gif" alt="Coding" />

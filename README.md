@@ -1,9 +1,9 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
-<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'M SANUJA! 
-*(Developer / Programmer)*
+<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>  <span style="font-family: 'Lucida Console';">I'M SANUJA!</span>
+<h3 align="center">A passionate frontend and backend developer from India</h3>
 <br /> 
 
-<h3 align="center">A passionate frontend and backend developer from India</h3>
+
 <!--Night Owl image-->
 <div>
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
